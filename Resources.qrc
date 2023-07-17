@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/image">
+        <file>image/new-document.png</file>
+        <file>image/diskette.png</file>
+        <file>image/paste.png</file>
+        <file>image/copy.png</file>
+        <file>image/trash.png</file>
+        <file>image/folder.png</file>
+        <file>image/button.png</file>
+        <file>image/redo-arrow-symbol.png</file>
+        <file>image/undo-circular-arrow.png</file>
+        <file>image/printer.png</file>
+        <file>image/scissors.png</file>
+    </qresource>
+</RCC>
